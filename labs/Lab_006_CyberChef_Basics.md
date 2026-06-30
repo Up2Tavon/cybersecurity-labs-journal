@@ -58,3 +58,15 @@ Defanged version:
 
 Why defanging matters:
 Defanging makes suspicious links safer to document because someone cannot accidentally click them.
+
+## Key Takeaways
+
+- Base64 is encoding, not encryption.
+- Encoding is usually reversible.
+- Hashing creates a fingerprint of data.
+- Defanging makes suspicious links safer to document.
+- CyberChef is useful for investigations, IOCs, logs, and phishing analysis.
+
+## Questions I Still Have
+
+- 
