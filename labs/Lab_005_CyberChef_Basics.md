@@ -1,4 +1,4 @@
-# Lab 006 - CyberChef Basics
+# Lab 005 - CyberChef Basics
 
 ## Base64 Decode
 
