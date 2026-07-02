@@ -1,4 +1,4 @@
-# Lab 006 - Process Explorer and TCPView Basics
+# Lab 005 - Process Explorer and TCPView Basics
 
 ## Goal
 
