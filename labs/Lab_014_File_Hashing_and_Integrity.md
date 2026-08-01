@@ -1,3 +1,5 @@
+# Lab Lab 014 - File Hashing and Integrity
+
 ## Goal
 Practice using SHA-256 hashes to verify file integrity and observe how file changes affect hash values.
 ## Tool used
